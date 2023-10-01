@@ -2,9 +2,8 @@
 layout: home
 title:  "My work FELM is accepted by NeurIPS D&B track 2023!"
 date:   2023-09-04 23:59:29 +0800
-categories: FELM.
+categories: About me.
 ---
-
 
 *🎉 🎉 🎉Our paper is accepted by NeurIPS Datasets and Benchmarks track 2023 and will be on Arxiv soon!!** 
 
