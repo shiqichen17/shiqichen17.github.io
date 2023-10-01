@@ -1,7 +1,7 @@
 ---
 layout: home
 title:  "My work FELM is accepted by NeurIPS D&B track 2023!"
-date:   2023-09-04 23:59:29 +0800
+date:   2023-10-01 23:59:29 +0800
 categories: About me.
 ---
 
@@ -15,4 +15,4 @@ The benchmark comprises 847 questions that span five distinct domains: world kno
 
  We then obtain responses from ChatGPT for these prompts. For each response, we employ fine-grained annotation at the segment level, which includes reference links, identified error types, and the reasons behind these errors as provided by our annotators.
 
-![](image/felm_examples.png)
+![](./image/felm_examples.png)

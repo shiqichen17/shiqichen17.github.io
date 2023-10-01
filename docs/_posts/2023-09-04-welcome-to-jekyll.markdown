@@ -4,9 +4,16 @@ title:  "About me!"
 date:   2023-09-04 23:59:29 +0800
 categories: About me.
 ---
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px; background-color: #e0e0e0;">
+     <!-- ![](../image/me.jpeg) -->
+     <img src="../image/me.jpeg" alt="Your Image" style="width: 200px; height: 200px; margin-left: 20px;">
 
-
-I am a second-year PhD student at City University of Hong Kong, specializing in the Natural Language Processing field. My research is primarily centered around exploring the factuality and interpretability within the context of Large Language Models.
+  </div>
+  <div style="flex: 2; padding: 10px; background-color:#f0f0f0 ;">
+    I am a second-year PhD student at City University of Hong Kong, specializing in the Natural Language Processing field. My research is primarily centered around exploring the factuality and interpretability within the context of Large Language Models.
+  </div>
+</div>
 
 Some of my past research works are:
 
