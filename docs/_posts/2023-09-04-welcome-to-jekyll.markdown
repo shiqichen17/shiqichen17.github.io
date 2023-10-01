@@ -7,7 +7,7 @@ categories: About me.
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; background-color: #e0e0e0;">
      <!-- ![](../image/me.jpeg) -->
-     <img src="../image/me.jpeg" alt="Your Image" style="width: 200px; height: 200px; margin-left: 20px;">
+     <img src="./image/me.jpeg" alt="Your Image" style="width: 200px; height: 200px; margin-left: 20px;">
 
   </div>
   <div style="flex: 2; padding: 10px; background-color:#f0f0f0 ;">
