@@ -20,19 +20,27 @@ categories: About me.
 Some of my past research works are:
 
 * [FELM: Benchmarking Factuality Evaluation of Large Language Models](https://arxiv.org/abs/2310.00741)
+
   <u>*Shiqi Chen*</u>, Yiran Zhao, Jinghan Zhang, I-Chun Chern, Siyang Gao, Pengfei Liu, Junxian He
+
   NeurIPS 2023(Datasets and Benchmarks track)
   
 * [Evaluating Factual Consistency of Summaries with Large Language Models](https://arxiv.org/abs/2305.14069)
-   <u>*Shiqi Chen*</u>, Siyang Gao, Junxian He
-   Arxiv
+
+  <u>*Shiqi Chen*</u>, Siyang Gao, Junxian He
+
+  Arxiv
 
 * [Composing Parameter-Efficient Modules with Arithmetic Operations](https://arxiv.org/abs/2306.14870)
+
   Jinghan Zhang, <u>*Shiqi Chen*</u>, Junteng Liu, Junxian He
+
   NeurIPS 2023
 
 * [FacTool: Factuality Detection in Generative AI--A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios](https://arxiv.org/abs/2307.13528)
+
   I Chern, Steffi Chern, <u>*Shiqi Chen*</u>, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu
+
   Arxiv
 
 Check out the [Google scholar pages] for more recent publications.
