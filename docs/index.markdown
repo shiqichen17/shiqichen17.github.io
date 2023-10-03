@@ -12,7 +12,7 @@ categories: About me.
 
   </div>
   <div style="flex: 2; padding: 10px; background-color:#f0f0f0 ;">
-    I am a second-year PhD student at City University of Hong Kong specializing in the Natural Language Processing field, adviced by Siyang Gao. My research is primarily centered around exploring the factuality and interpretability within the context of Large Language Models. 
+    I am a second-year PhD student at City University of Hong Kong specializing in the Natural Language Processing field, adviced by Professor Siyang Gao. My research is primarily centered around exploring the factuality and interpretability within the context of Large Language Models. 
   </div>
 </div>
 <!-- I am a second-year PhD student at City University of Hong Kong, specializing in the Natural Language Processing field. My research is primarily centered around exploring the factuality and interpretability within the context of Large Language Models. -->
