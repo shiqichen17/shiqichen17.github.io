@@ -21,7 +21,7 @@ Some of my past research works are:
 
 * [In-Context Sharpness as Alerts: An Inner Representation Perspective for
 Hallucination Mitigation](https://arxiv.org/abs/2403.01548))<br>
-  *<u>Shiqi Chen\*</u>*, Miao Xiong*, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He<br>
+  *<u>Shiqi Chen*</u>*, Miao Xiong*, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He<br>
   ICML 2024
   
 * [FELM: Benchmarking Factuality Evaluation of Large Language Models](https://arxiv.org/abs/2310.00741)<br>
