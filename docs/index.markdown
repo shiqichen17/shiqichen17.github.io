@@ -32,6 +32,10 @@ Hallucination Mitigation](https://arxiv.org/abs/2403.01548))<br>
   *<u>Shiqi Chen</u>*, Siyang Gao, Junxian He<br>
   Arxiv
 
+* [On the Universal Truthfulness Hyperplane Inside LLMs](https://arxiv.org/abs/2407.08582)<br>
+  Junteng Liu, *<u>Shiqi Chen</u>*, Yu Cheng, Junxian He<br>
+  EMNLP 2024
+
 * [Composing Parameter-Efficient Modules with Arithmetic Operations](https://arxiv.org/abs/2306.14870)<br>
   Jinghan Zhang, *<u>Shiqi Chen</u>*, Junteng Liu, Junxian He<br>
   NeurIPS 2023
