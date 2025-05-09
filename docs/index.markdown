@@ -12,15 +12,23 @@ categories: About me.
 
   </div>
   <div style="flex: 2; padding: 10px; background-color:#f0f0f0 ;">
-    I am a second-year PhD student at City University of Hong Kong specializing in the Natural Language Processing field, adviced by Professor Siyang Gao.<br>My research is primarily centered around exploring the factuality and interpretability within the context of Large Language Models.<br> Nowadays, I am also on my visit in Prof. Junxian He's group in HKUST, You're welcome to come and join me for board games at CityU or HKUST!
+    I am a third-year PhD student at City University of Hong Kong specializing in the Natural Language Processing field, adviced by Professor Siyang Gao.<br>My research is primarily centered around exploring the factuality and interpretability within the context of Large Language Models and Vision Language Models.<br> Nowadays, I am also on my visit in Prof. Manling Li's group in NorthWestern University and Prof. Junxian He's group in HKUST!
   </div>
 </div>
-<!-- I am a second-year PhD student at City University of Hong Kong, specializing in the Natural Language Processing field. My research is primarily centered around exploring the factuality and interpretability within the context of Large Language Models. -->
+
 
 Some of my past research works are:
 
+* [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/abs/2505.05464)<br>
+  *<u>Shiqi Chen*</u>*, Jinghan Zhang*, Tongyao Zhu, Wei Liu, Siyang Gao, Miao Xiong, Manling Li, Junxian He<br>
+  ICML 2025
+
+* [Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas](https://arxiv.org/abs/2503.01773)<br>
+  *<u>Shiqi Chen</u>*, Tongyao Zhu, Ruochen Zhou, Jinghan Zhang, Siyang Gao, Juan Carlos Niebles, Mor Geva, Junxian He, Jiajun Wu, Manling Li<br>
+  ICML 2025
+
 * [In-Context Sharpness as Alerts: An Inner Representation Perspective for
-Hallucination Mitigation](https://arxiv.org/abs/2403.01548))<br>
+Hallucination Mitigation](https://arxiv.org/abs/2403.01548)<br>
   *<u>Shiqi Chen*</u>*, Miao Xiong*, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He<br>
   ICML 2024
   
