@@ -1,0 +1,230 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom color scheme */
+:root {
+  --primary-color: #2c3e50;
+  --accent-color: #3498db;
+  --text-color: #333;
+  --light-bg: #f8f9fa;
+  --card-bg: #ffffff;
+  --border-color: #e0e0e0;
+  --hover-color: #2980b9;
+}
+
+/* Overall layout improvements */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+  color: var(--text-color);
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-attachment: fixed;
+}
+
+.site-header {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 100%);
+  border-top: none;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.site-title, .site-title:visited {
+  color: white !important;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.site-nav .page-link {
+  color: rgba(255,255,255,0.9);
+  font-weight: 500;
+}
+
+.site-nav .page-link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/* Main content wrapper */
+.wrapper {
+  max-width: 900px;
+  background: var(--card-bg);
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Profile section styling */
+.profile-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 40px;
+  padding: 30px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+}
+
+.profile-image {
+  flex-shrink: 0;
+}
+
+.profile-image img {
+  width: 180px !important;
+  height: 180px !important;
+  border-radius: 50%;
+  border: 5px solid white;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+  object-fit: cover;
+  margin: 0 !important;
+}
+
+.profile-text {
+  flex: 1;
+  color: white;
+  padding: 20px;
+  line-height: 1.8;
+  font-size: 16px;
+}
+
+.profile-text strong {
+  color: #ffd700;
+}
+
+/* Publications section */
+.publications-list {
+  margin-top: 40px;
+}
+
+.publications-list h2 {
+  color: var(--primary-color);
+  font-size: 28px;
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid var(--accent-color);
+  font-weight: 700;
+}
+
+.publications-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.publications-list li {
+  margin-bottom: 30px;
+  padding: 25px;
+  background: var(--light-bg);
+  border-left: 4px solid var(--accent-color);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.publications-list li:hover {
+  transform: translateX(5px);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+  background: white;
+}
+
+.publications-list a {
+  color: var(--accent-color);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.publications-list a:hover {
+  color: var(--hover-color);
+  text-decoration: underline;
+}
+
+.publications-list em {
+  display: block;
+  margin-top: 8px;
+  color: #666;
+  font-size: 14px;
+}
+
+.publications-list em u {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* Footer styling */
+.site-footer {
+  background: var(--primary-color);
+  color: rgba(255,255,255,0.8);
+  border-top: none;
+  padding: 30px 0;
+}
+
+.footer-heading {
+  color: white;
+}
+
+.footer-col-wrapper a {
+  color: rgba(255,255,255,0.9);
+}
+
+.footer-col-wrapper a:hover {
+  color: white;
+}
+
+/* Responsive design */
+@media screen and (max-width: 768px) {
+  .profile-container {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .profile-image img {
+    width: 150px !important;
+    height: 150px !important;
+  }
+
+  .wrapper {
+    padding: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+  .publications-list li {
+    padding: 15px;
+  }
+}
+
+/* Animation effects */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.wrapper {
+  animation: fadeInUp 0.6s ease;
+}
+
+/* Link styling */
+a {
+  color: var(--accent-color);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--hover-color);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}

@@ -21,11 +21,12 @@
 title: Shiqi Chen
 email: schen438-c@my.cityu.edu.hk
 description: >- # this means to ignore newlines until "baseurl:"
-  A NLPer.
+  PhD Student in NLP | Researching Factuality & Interpretability in LLMs and VLMs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shiqi_chen17
 github_username:  shiqichen17
+linkedin_username: shiqi-chen
 
 # Build settings
 theme: minima
