@@ -5,20 +5,19 @@ date:   2023-09-04 23:59:29 +0800
 categories: About me.
 ---
 
-<div class="profile-container">
-  <div class="profile-image">
-     <img src="./image/me.jpeg" alt="Shiqi Chen">
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px; background-color: #e0e0e0;">
+     <!-- ![](../image/me.jpeg) -->
+     <img src="./image/me.jpeg" alt="Your Image" style="width: 200px; height: 200px; margin-left: 20px;">
+
   </div>
-  <div class="profile-text">
-    I am a <strong>third-year PhD student</strong> at City University of Hong Kong specializing in the <strong>Natural Language Processing</strong> field, advised by Professor Siyang Gao.<br><br>
-    My research is primarily centered around exploring the <strong>factuality and interpretability</strong> within the context of Large Language Models and Vision Language Models.<br><br>
-    Currently, I am visiting <strong>Prof. Yee Whye Teh's</strong> group at Oxford University, <strong>Prof. Manling Li's</strong> group at Northwestern University, and <strong>Prof. Junxian He's</strong> group at HKUST!
+  <div style="flex: 2; padding: 10px; background-color:#f0f0f0 ;">
+    I am a third-year PhD student at City University of Hong Kong specializing in the Natural Language Processing field, adviced by Professor Siyang Gao.<br>My research is primarily centered around exploring the factuality and interpretability within the context of Large Language Models and Vision Language Models.<br> Nowadays, I am also on my visit in Prof. Yee Whye Teh's group in Oxford University, Prof. Manling Li's group in NorthWestern University and Prof. Junxian He's group in HKUST!
   </div>
 </div>
 
-<div class="publications-list">
 
-## Research Publications
+Some of my past research works are:
 
 * [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/abs/2505.05464)<br>
   *<u>Shiqi Chen*</u>*, Jinghan Zhang*, Tongyao Zhu, Wei Liu, Siyang Gao, Miao Xiong, Manling Li, Junxian He<br>
@@ -53,6 +52,6 @@ Hallucination Mitigation](https://arxiv.org/abs/2403.01548)<br>
   I-Chun Chern, Steffi Chern, *<u>Shiqi Chen</u>*, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu<br>
   Arxiv
 
-Check out the [Google Scholar page](https://scholar.google.com/citations?user=4Tg7zOMAAAAJ&hl=zh-CN) for more recent publications.
+Check out the [Google scholar pages] for more recent publications.
 
-</div>
+[Google scholar pages]: https://scholar.google.com/citations?user=4Tg7zOMAAAAJ&hl=zh-CN
