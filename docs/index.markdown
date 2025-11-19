@@ -12,7 +12,7 @@ categories: About me.
   <div class="profile-text">
     I am a <strong>third-year PhD student</strong> at City University of Hong Kong specializing in the <strong>Natural Language Processing</strong> field, advised by Professor Siyang Gao.<br><br>
     My research is primarily centered around exploring the <strong>factuality and interpretability</strong> within the context of Large Language Models and Vision Language Models.<br><br>
-    Currently, I am visiting <strong>Prof. Manling Li's</strong> group in Northwestern University and <strong>Prof. Junxian He's</strong> group in HKUST!
+    Currently, I am visiting <strong>Prof. Yee Whye Teh's</strong> group at Oxford University, <strong>Prof. Manling Li's</strong> group at Northwestern University, and <strong>Prof. Junxian He's</strong> group at HKUST!
   </div>
 </div>
 
